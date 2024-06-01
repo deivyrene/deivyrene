@@ -24,8 +24,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -63,4 +61,16 @@
   <! --- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deivyrene&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deivyrene&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180em" alt="languages graph"  />
+</p>
+
+### 🤝🏻 &nbsp; Encuentrame:
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/deivy-hern%C3%A1ndez-94969b51/"><img src="https://img.shields.io/badge/-Deivy Hernández-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:deivyhernandezperez@gmail.com"><img src="https://img.shields.io/badge/-deivyhernandezperez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://x.com/i/flow/login?redirect_after_login=%2Fdeivyrene"><img src="https://img.shields.io/badge/%40deivyrene-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://github.com/deivyrene"><img src="https://img.shields.io/badge/-deivyrene-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/9710681/deivy-hern%c3%a1ndez"><img src="https://img.shields.io/badge/deivy_rene-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+
 </p>
