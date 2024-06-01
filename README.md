@@ -1,5 +1,7 @@
 <h1 align="center">Hola, Soy Deivy Hernandez</h1>
 
+![https://github.com/deivyrene](./image/deivy-banner.png)
+
 ### 🛠 &nbsp;Tech Stack
 
 <div align="left">
@@ -40,10 +42,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
