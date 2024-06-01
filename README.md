@@ -1,4 +1,4 @@
-<h1 align="center">Hola, Soy Deivy Hernandez</h1>
+<h1 align="center">Hola, Soy Deivy Hernandez 👋</h1>
 
 ![https://github.com/deivyrene](./image/deivy-banner.png)
 
@@ -79,10 +79,10 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/deivy-hern%C3%A1ndez-94969b51/"><img src="https://img.shields.io/badge/-Deivy Hernández-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:deivyhernandezperez@gmail.com"><img src="https://img.shields.io/badge/-deivyhernandezperez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deivy-hern%C3%A1ndez-94969b51/"><img src="https://img.shields.io/badge/deivy_hernández-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:deivyhernandezperez@gmail.com"><img src="https://img.shields.io/badge/deivyhernandezperez@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/i/flow/login?redirect_after_login=%2Fdeivyrene"><img src="https://img.shields.io/badge/%40deivyrene-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/deivyrene"><img src="https://img.shields.io/badge/-deivyrene-%23121011.svg?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/deivyrene"><img src="https://img.shields.io/badge/deivyrene-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/9710681/deivy-hern%c3%a1ndez"><img src="https://img.shields.io/badge/deivy_rene-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 
 </p>
