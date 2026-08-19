@@ -18,7 +18,6 @@ Software Engineer with 10+ years of experience building, scaling, and optimizing
 - 🛠️ **Core Focus:** Event-driven backend architectures, microservices, and AWS cloud infrastructure.
 - ⚡ **Key Achievements:** Architected a cloud-native ecosystem of 700+ microservices on AWS ECS, led FinOps initiatives saving $50k+ USD annually, and engineered real-time automated workflows.
 - 🤖 **AI & Workflows:** Integrating AI tooling (Claude Code, custom agents, LLM orchestration) into modern engineering practices to accelerate delivery and automate complex systems.
-- 📍 **Based in:** Buenos Aires, Argentina (Working remotely worldwide).
 
 <br/>
 
