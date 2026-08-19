@@ -1,87 +1,62 @@
-<h1 align="center">Hola, Soy Deivy Hernandez 👋</h1>
-
-![https://github.com/deivyrene](./image/deivy-banner.png)
-
-<br/><br/>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-🚀 &nbsp; Apasionado por la tecnología \
-🎓 &nbsp; Ingeniero en informática \
-🎸 &nbsp; En mis momentos libres toco la guitarra. \
-🎮 &nbsp; Me gustan los videojuegos, más si se trata de la F1. \
-🐶 &nbsp; PetLover forever. \
-💬 &nbsp; Me encanta charlar sobre todo tipo de temas, puedes encontrarme en deivyhernandezperez@gmail.com
-
-<img alt="Night Coding" style="width: 250px; height: 200px; object-fit: cover;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE2ZGUxNnM1Znk1cG96bnVic2FpdWphMTl5dnQ4azAzYmg1aGg3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" align="right"/>
-
-<br/><br/>
-
-### 🛠 &nbsp;Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
-
-<br/><br/>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-###
-
+<h1 align="center">Hi, I'm Deivy Hernández 👋</h1>
 <p align="center">
-<a href="https://github.com/deivyrene">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deivyrene&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deivyrene&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <b>Senior Full Stack & Backend Engineer</b> | <b>Cloud Architect (AWS)</b> | <b>Distributed Systems</b>
 </p>
 
-###
+<p align="center">
+  <a href="https://linkedin.com/in/deivyhernandez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:deivyhernandezperez@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/deivyrene"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<br/><br/>
+<br/>
 
-### 🤝🏻 &nbsp; Encuentrame:
+### 👨🏻‍💻 About Me
+
+Software Engineer with 10+ years of experience building, scaling, and optimizing cloud-native systems and high-throughput backend architectures.
+
+- 🛠️ **Core Focus:** Event-driven backend architectures, microservices, and AWS cloud infrastructure.
+- ⚡ **Key Achievements:** Architected a cloud-native ecosystem of 700+ microservices on AWS ECS, led FinOps initiatives saving $50k+ USD annually, and engineered real-time automated workflows.
+- 🤖 **AI & Workflows:** Integrating AI tooling (Claude Code, custom agents, LLM orchestration) into modern engineering practices to accelerate delivery and automate complex systems.
+- 📍 **Based in:** Buenos Aires, Argentina (Working remotely worldwide).
+
+<br/>
+
+### 🛠️ Technical Stack & Tools
+
+**Core Backend & Languages**
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+
+**Cloud & Infrastructure**
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ecs/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
+[![CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudfront/)
+
+**Databases & Caching**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+
+**Frontend & Mobile**
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/lp/mobile/)
+
+**AI Integrations & Developer Tooling**
+[![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)](https://www.langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Anthropic Claude](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+<br/>
+
+---
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/deivy-hern%C3%A1ndez-94969b51/"><img src="https://img.shields.io/badge/deivy_hernández-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:deivyhernandezperez@gmail.com"><img src="https://img.shields.io/badge/deivyhernandezperez@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/i/flow/login?redirect_after_login=%2Fdeivyrene"><img src="https://img.shields.io/badge/%40deivyrene-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://github.com/deivyrene"><img src="https://img.shields.io/badge/deivyrene-00008B?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/9710681/deivy-hern%c3%a1ndez"><img src="https://img.shields.io/badge/deivy_rene-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
-
+  <sub>Designed & built by Deivy Hernández</sub>
 </p>
